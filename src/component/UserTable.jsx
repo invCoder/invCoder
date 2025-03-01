@@ -33,7 +33,7 @@ const UserTable = () => {
     };
 
     // API URL to fetch user data
-    const API_URL = 'https://o5e8gb5fah.execute-api.us-east-1.amazonaws.com/dev';
+    const API_URL = 'ADD-AWS-URL-HERE'; // Add the AWS API URL here   
 
     // Fetch user data from the API
     useEffect(() => {

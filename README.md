@@ -15,8 +15,8 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 aws public url FE
-http://new-user-ak.s3-website-us-east-1.amazonaws.com
+add aws url here
 
 aws public url BE - 
-https://o5e8gb5fah.execute-api.us-east-1.amazonaws.com/dev
+add aws api url here
 
